@@ -14,5 +14,3 @@ Proyek ini adalah implementasi automated testing untuk Instagram menggunakan kom
 
 ---
 
-## 📂 Struktur Proyek
-
